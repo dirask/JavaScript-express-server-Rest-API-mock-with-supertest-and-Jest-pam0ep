@@ -1,0 +1,1 @@
+exports.getUsers = () => ['john', 'ann', 'matt'];
